@@ -1,0 +1,17 @@
+* {
+    font-family: monospace;
+}
+
+.mom-spaghetti {
+    background-color: pink;
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.background, .ingridents, .directions {
+    background-color: burlywood;
+}
