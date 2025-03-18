@@ -1,0 +1,17 @@
+* {
+    font-family: monospace;
+}
+
+.french-toast {
+    background-color: pink;
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.background, .ingridients, .directions {
+    background-color: burlywood;
+}

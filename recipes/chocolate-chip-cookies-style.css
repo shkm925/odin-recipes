@@ -1,0 +1,17 @@
+* {
+    font-family: monospace;
+}
+
+.chocolate-chip {
+    background-color: pink;
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.background, .ingredients, .directions {
+    background-color: burlywood;
+}
